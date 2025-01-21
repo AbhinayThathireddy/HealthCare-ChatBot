@@ -41,13 +41,14 @@ The **Healthcare Chatbot System** is an AI-powered solution designed to enhance 
    ```
 
 ## Screenshots
+### User Interface
+![Screenshot 2025-01-21 150730](https://github.com/user-attachments/assets/d79f04e3-0c66-4d15-9221-3c8e097cd106)
 
 ### Login page 
-![image](https://github.com/user-attachments/assets/e201be87-42ed-48da-9284-92fe25ad9e4e)
+![Screenshot 2025-01-21 150746](https://github.com/user-attachments/assets/ef8c0b9f-fdb6-4142-8722-97c257d67d8c)
 
-### User Interface
-![image](https://github.com/user-attachments/assets/b7d5138a-2b7b-48ac-a92c-0353a9ab1def)
-
+### ChatBot
+![Screenshot 2025-01-21 150828](https://github.com/user-attachments/assets/6ede0cd8-4b57-4fd0-abbe-58ca98a468b2)
 
 ## Results
 - **Efficiency**: The system provides accurate responses with a user-friendly interface.
